@@ -19,7 +19,7 @@ public class Principal {
     Vehiculo skate = new Skateboard(10,"Kpc","2019");
     Vehiculo bicicleta = new Bicicleta(5,"Trek","2019");
     Vehiculo carro = new Carro(12,"Acpm","Jeep","2015");
-    Vehiculo jet = new Jet(2,"Dornier","328");
+    Vehiculo jet = new Jet(2,"Dornier","328","2015");
     
     
     public Principal(){
