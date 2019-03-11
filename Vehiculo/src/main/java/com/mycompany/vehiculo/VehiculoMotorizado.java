@@ -9,7 +9,7 @@ package com.mycompany.vehiculo;
  *
  * @author David
  */
-public class VehiculoMotorizado extends Vehiculo{
+public abstract class VehiculoMotorizado extends Vehiculo{
     private String tipoGasolina;
 
     public VehiculoMotorizado(String tipoGasolina, String marca, String modelo) {

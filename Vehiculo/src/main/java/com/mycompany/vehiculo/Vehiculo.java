@@ -9,7 +9,7 @@ package com.mycompany.vehiculo;
  *
  * @author David
  */
-public class Vehiculo {
+public abstract class Vehiculo {
     private String marca;
     private String modelo;
     
